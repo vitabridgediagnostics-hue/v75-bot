@@ -14,8 +14,8 @@ SYMBOL         = "R_75"     # Volatility 75 Index on Deriv's API
 GRANULARITY    = 900        # seconds per candle: 900 = 15 min (see docstring below for other values)
 HISTORY_COUNT  = 200        # candles to keep in memory
 
-TELEGRAM_BOT_TOKEN = 8833754016:AAH7A0U0HSNrv0U6fRTdBnWgE_ZbSsJxyz0
-TELEGRAM_CHAT_ID   = 6073070307
+TELEGRAM_BOT_TOKEN = "8833754016:AAH7A0U0HSNrv0U6fRTdBnWgE_ZbSsJxyz0"
+TELEGRAM_CHAT_ID   = "6073070307"
 
 EMA_FAST, EMA_SLOW   = 20, 50
 RSI_PERIOD           = 14
