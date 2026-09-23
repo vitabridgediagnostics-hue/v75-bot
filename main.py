@@ -18,7 +18,7 @@ import requests
 import websockets
 
 # ==================== CONFIG ====================
-DERIV_WS_URL   = "wss://ws.derivws.com/websockets/v3?app_id=1089"
+DERIV_WS_URL   = "wss://ws.derivws.com/websockets/v3?app_id=34tOo2SXmXySNxwSYcmhn"
 SYMBOL         = "R_75"
 GRANULARITY    = 900
 HISTORY_COUNT  = 200
